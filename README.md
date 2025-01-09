@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with languages learning
 - 💬 Ask me about my progress with C++.
 - 📫 How to reach me: Telegram, Discord, 
-- 😄 Pronouns: I'm boy, he
 - ⚡ Fun fact: today is Day's day!
