@@ -4,5 +4,5 @@
 - 👯 I’m looking to the sky
 - 🤔 I’m looking for help with languages learning
 - 💬 Ask me about my progress with C++.
-- 📫 How to reach me: Telegram (https://telegram.org/Megatogen), email (Megatogen@yandex.ru)
+- 📫 How to reach me: Telegram (https://t.me/Megatogen), email (Megatogen@yandex.ru)
 - ⚡ Fun fact: today is day before tommorow!
