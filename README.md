@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Telegram Bot for our school's editorian team "Mol.Oko", or just Milk
-- 🌱 I’m currently learning Python and C++
-- 👯 I’m looking to collaborate on any project
+- 🔭 I’m currently working on physics engine on C++
+- 🌱 I’m currently learning C++ and Frontend stuff (JS, HTML, CSS etc.)
+- 👯 I’m looking to the sky
 - 🤔 I’m looking for help with languages learning
 - 💬 Ask me about my progress with C++.
-- 📫 How to reach me: Telegram, Discord, 
-- ⚡ Fun fact: today is Day's day!
+- 📫 How to reach me: Telegram (@Megatogen), email (Megatogen@yandex.ru)
+- ⚡ Fun fact: today is day before tommorow!
